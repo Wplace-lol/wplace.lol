@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwplace_lol=self.webpackChunkwplace_lol||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Wplace AI websites","permalink":"/blog/wplace-ai-websites","unlisted":false,"date":"2025-08-14T00:00:00.000Z"}]}')}}]);
