@@ -4,8 +4,24 @@ sidebar_position: 2
 
 # Useful Tools & Resources
 
-| Owned by us? | Description | Link |
-|--------------|-------------|------|
-| <center>✅</center> | Monitor the status of all [Wplace.lol](https://wplace.lol) services | [status.wplace.lol](https://status.wplace.lol/) |
-| <center>❌</center> | Wplace server downtime count-up | [panfriedbread.com/shutdown](https://panfriedbread.com/shutdown) |
-| <center>❌</center> | Convert regular images into templates that you can use with Blue Marble | [pepoafonso.github.io/color_converter_wplace](https://pepoafonso.github.io/color_converter_wplace/) |
+| Description | Link |
+|-------------|------|
+| See if [Wplace.live](https://wplace.live) is down or not | [status.wplace.lol](https://status.wplace.lol/) |
+| Wplace server downtime count-up | [panfriedbread.com/shutdown](https://panfriedbread.com/shutdown) |
+| Search tool - find individual pixels or cities | [wplace.life/go-anywhere-in-wplace](https://wplace.life/go-anywhere-in-wplace) |
+| Discover amazing pixel arts from around the map (POI) | [wplace.today](https://wplace.today/)
+
+# Every single pixel converter
+We recommend the first one (marked with a star ⭐), as it's open-source and not AI generated.
+
+| Link |
+|------|
+| ⭐ [pepoafonso.github.io/color_converter_wplace](https://pepoafonso.github.io/color_converter_wplace/) |
+| [wplace.wiki/image-to-pixel-wplace](https://www.wplace.wiki/image-to-pixel-wplace) |
+| [wplace.website](https://wplace.website/) |
+| [wplace.tools](https://wplace.tools/) |
+| [wplace.pro](https://www.wplace.pro/) |
+| [wplace.cc/image-to-pixel](https://wplace.cc/image-to-pixel) |
+| [wplace.art](https://wplace.art/) |
+
+<!-- | <center>?/10</center> | | []() | -->

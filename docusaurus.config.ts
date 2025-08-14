@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Wplace.lol',
   tagline: 'Wplace.lol',
-  favicon: 'img/wplacelol.png',
+  favicon: 'img/logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -83,7 +83,7 @@ const config: Config = {
       title: 'Wplace.lol',
       logo: {
         alt: 'Wplace.lol',
-        src: 'img/wplacelol.png',
+        src: 'img/logo.png',
       },
       items: [
         // {
