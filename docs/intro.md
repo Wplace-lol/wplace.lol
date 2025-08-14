@@ -4,11 +4,10 @@ slug: /
 ---
 
 # Introduction
-
-Welcome to Wplace.lol! Wplace.lol is your number one place for guides, useful tools, tutorials, and much more!
-
+## Welcome to Wplace.lol! 
+Wplace.lol is your number one place for guides, useful tools, tutorials, and much more!
 :::note
-This website is still a WIP
+This website is a WIP
 :::
 
 # Contributions
