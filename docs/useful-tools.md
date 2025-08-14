@@ -8,7 +8,7 @@ pagination_next: null
 | Description | Link |
 |-------------|------|
 | See if [Wplace.live](https://wplace.live) is down or not | [status.wplace.lol](https://status.wplace.lol/) |
-| Wplace server downtime count-up | [panfriedbread.com/shutdown](https://panfriedbread.com/shutdown) |
+| See how long the Wplace server has been down for | [panfriedbread.com/shutdown](https://panfriedbread.com/shutdown) |
 | Search tool - find individual pixels or cities | [wplace.life/go-anywhere-in-wplace](https://wplace.life/go-anywhere-in-wplace) |
 | Discover amazing pixel arts from around the map (POI) | [wplace.today](https://wplace.today/)
 
