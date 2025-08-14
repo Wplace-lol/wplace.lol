@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+pagination_prev: null
+---
+
 # How to fix the map?
 When you're zooming in or out, different parts of the map appear or dissapear. This is really annoying, especially when you zoom into a place where you want to draw, and that part of the map just dissapears.
 
