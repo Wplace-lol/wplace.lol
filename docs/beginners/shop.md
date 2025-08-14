@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Shop
-This page explains lists all store items and their cost.
+This page lists all shop items and their prices.
 
 ### Max. Charges
 500 Droplets - +5 (can be bought in bulk)
