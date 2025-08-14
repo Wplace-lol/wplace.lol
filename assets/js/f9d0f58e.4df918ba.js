@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwplace_lol=self.webpackChunkwplace_lol||[]).push([[5158],{4854:l=>{l.exports=JSON.parse('{"metadata":{"permalink":"/wplace.lol/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
