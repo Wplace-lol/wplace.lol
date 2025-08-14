@@ -86,23 +86,28 @@ const config: Config = {
         src: 'img/wplacelol.png',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Docs',
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: 'Docs',
+        // },
         // {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          href: 'https://discord.gg/Tbh6A2czJT',
+          label: 'Discord server',
+          position: 'left'
+        },
+        {
+          href: 'https://ko-fi.com/sobakintech',
+          label: 'Support me on Ko-Fi',
+          position: 'left'
+        },
         {
           href: 'https://github.com/sobakintech/wplace.lol',
           label: 'GitHub',
           position: 'right',
         },
-        {
-          href: 'https://ko-fi.com/sobakintech',
-          label: 'Support me on Ko-Fi',
-          position: 'right'
-        }
       ],
     },
     footer: {
