@@ -1,2 +1,2 @@
-# WIP
-Join our Discord for updates: https://discord.gg/Tbh6A2czJT
+# Wplace.lol 
+Wplace.lol is your number one place for guides, useful tools, tutorials, and much more!
