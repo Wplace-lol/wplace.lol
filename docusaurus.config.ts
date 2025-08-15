@@ -5,6 +5,20 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
+  scripts: [
+    {
+      src: 'https://analytics.sobakintech.xyz/js/script.file-downloads.hash.outbound-links.js',
+      defer: true,
+      'data-domain': 'wplace.lol',
+    },
+    {
+      content: `
+        window.plausible = window.plausible || function() { 
+          (window.plausible.q = window.plausible.q || []).push(arguments) 
+        }
+      `,
+    },
+  ],
   title: 'Wplace.lol',
   tagline: 'Wplace.lol',
   favicon: 'img/logo.png',
@@ -40,9 +54,6 @@ const config: Config = {
     [
       'classic',
       {
-        gtag: {
-          trackingID: 'G-N76KC5SR6R',
-        },
         docs: {
           sidebarPath: './sidebars.ts',
           routeBasePath: '/', // This makes docs the root
