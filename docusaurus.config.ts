@@ -5,23 +5,19 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  scripts: [
-    {
-      src: 'https://analytics.sobakintech.xyz/js/script.file-downloads.hash.outbound-links.js',
-      defer: true,
-      'data-domain': 'wplace.lol',
-    },
-    {
-      content: `
-        window.plausible = window.plausible || function() { 
-          (window.plausible.q = window.plausible.q || []).push(arguments) 
-        }
-      `,
-    },
-  ],
   title: 'Wplace.lol',
   tagline: 'Wplace.lol',
   favicon: 'img/logo.png',
+  scripts: [{
+    src: 'https://analytics.sobakintech.xyz/js/script.file-downloads.hash.outbound-links.js',
+    defer: true,
+    'data-domain': 'wplace.lol'
+  }],
+  headTags: [{
+    tagName: 'script',
+    attributes: {},
+    innerHTML: 'window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }'
+  }],
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
