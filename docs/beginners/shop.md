@@ -4,7 +4,7 @@ pagination_next: null
 ---
 
 # Shop
-This page lists all shop items and their prices.
+This page lists all shop items, their prices and information about them.
 
 ### Max. Charges
 500 Droplets - +5 (can be bought in bulk)
@@ -29,3 +29,7 @@ If you upload a picture that's not 16x16, it will get automatically downsized.
 20,000 Droplets each
 
 Display your country’s flag next to your username. When painting in regions where you own the corresponding flag, you recover 10% of the charges spent.
+
+You can only display a single flag next to your username.
+
+You can buy as many flags as you want, and they do not need to be equipped (shown next to your username) for the bonus to apply.
