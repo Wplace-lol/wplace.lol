@@ -31,3 +31,4 @@ jobs:
           branch: production
           folder: build
           clean: true
+          cname: wplace.lol
