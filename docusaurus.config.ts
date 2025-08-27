@@ -84,7 +84,7 @@ const config: Config = {
     // Set dark mode as default
     colorMode: {
       defaultMode: 'dark',
-      disableSwitch: false,
+      disableSwitch: true,
       respectPrefersColorScheme: true,
     },
     // Replace with your project's social card
