@@ -9,11 +9,11 @@ slug: /
 
 [![Discord Server Card](https://cardzera.audibert.dev/api/1405508487940669571)](https://discord.gg/Tbh6A2czJT)
 
-Wplace.lol is the number one guide for Wplace.live, that wasn't created with AI ([Read more](blog/wplace-ai-websites)).
+Wplace.lol is the number one guide for Wplace.live, that wasn't created with/doesn't use AI ([Read more](blog/wplace-ai-websites)).
 
-We have: 
-- A list of useful tools & resources 
-- Information for beginners
+We have:
+- [A list of Useful Tools & Resources](/useful-tools)
+- [Information for beginners](/beginners/introduction)
 - Various tutorials
 - and much more!
 
