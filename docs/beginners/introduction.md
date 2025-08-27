@@ -20,3 +20,6 @@ You can also buy them for real life money.
 ## What are premium colors?
 
 By default, you can only access a pallete of 32 colors, including "transparent," but in the expanded pallete, there are 32 additional colors that can each be unlocked by spending 2,000 droplets.
+
+## Can I place the image I'm painting directly onto the canvas?
+Yes! You can use [Blue Marble](/tutorials/bluemarble) for that.
