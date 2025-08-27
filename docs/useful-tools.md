@@ -40,5 +40,3 @@ With dithering:<br></br>
 </div>
 
 <sub>Both images were converted using [pepoafonso's converter](https://pepoafonso.github.io/color_converter_wplace/)</sub>
-
-<!-- | <center>?/10</center> | | []() | -->
