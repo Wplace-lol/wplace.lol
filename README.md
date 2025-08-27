@@ -8,7 +8,6 @@
   <a href="https://ko-fi.com/sobakintech" target="_blank">
     <img src="https://github.com/PenPow/Badges/raw/refs/heads/main/src/assets/donate/kofi-singular-alt/compact.svg" alt="Donate on Ko-fi">
   </a>
-  <br></br>
 </h1>
 
 Wplace.lol is the number one guide for Wplace.live, that wasn't created by AI ([Read more](https://wplace.lol/blog/wplace-ai-websites)).
