@@ -9,8 +9,6 @@
     <img src="https://github.com/PenPow/Badges/raw/refs/heads/main/src/assets/donate/kofi-singular-alt/compact.svg" alt="Donate on Ko-fi">
   </a>
   <br></br>
-
-  [![Discord Server Card](https://cardzera.audibert.dev/api/1405508487940669571)](https://discord.gg/Tbh6A2czJT)
 </h1>
 
 Wplace.lol is the number one guide for Wplace.live, that wasn't created by AI ([Read more](https://wplace.lol/blog/wplace-ai-websites)).
