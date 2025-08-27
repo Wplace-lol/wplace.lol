@@ -1,3 +1,8 @@
+---
+pagination_prev: null
+pagination_next: null
+---
+
 # How to install Tampermonkey?
 
 Tampermonkey is a popular browser extension that allows you to install and manage userscripts. Here's how to install it on different browsers:

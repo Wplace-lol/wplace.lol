@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
 pagination_prev: null
+pagination_next: null
 ---
 
 # How to fix the map?
